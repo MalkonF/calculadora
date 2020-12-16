@@ -7,6 +7,6 @@ import { CalculadoraService } from './services';
   declarations: [CalculadoraComponent],
   imports: [CommonModule],
   exports: [CalculadoraComponent],
-  providers: [CalculadoraService]
+  providers: [CalculadoraService],
 })
 export class CalculadoraModule {}
